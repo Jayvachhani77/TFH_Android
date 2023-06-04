@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-04T01:17:49 IST" name="Suite" finished-at="2023-06-04T01:18:10 IST" duration-ms="21140">
+    <groups>
+    </groups>
+    <test started-at="2023-06-04T01:17:49 IST" name="Test" finished-at="2023-06-04T01:18:10 IST" duration-ms="21140">
+      <class name="testCases.SignInDemo">
+        <test-method is-config="true" signature="driverInitiator()[pri:0, instance:testCases.SignInDemo@cb0755b]" started-at="2023-06-04T01:17:49 IST" name="driverInitiator" finished-at="2023-06-04T01:18:00 IST" duration-ms="11544" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverInitiator -->
+        <test-method signature="TFHLogin()[pri:0, instance:testCases.SignInDemo@cb0755b]" started-at="2023-06-04T01:18:00 IST" name="TFHLogin" finished-at="2023-06-04T01:18:10 IST" duration-ms="9251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TFHLogin -->
+        <test-method is-config="true" signature="sessionTearDown()[pri:0, instance:testCases.SignInDemo@cb0755b]" started-at="2023-06-04T01:18:10 IST" name="sessionTearDown" finished-at="2023-06-04T01:18:10 IST" duration-ms="314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sessionTearDown -->
+      </class> <!-- testCases.SignInDemo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
